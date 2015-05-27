@@ -2,7 +2,7 @@
 using namespace std;
 int sprawdz(obiekt o1,obiekt o2)
 {
-    //bezcelowy kometarz
+    //bezcelowy kometarz :)
 	int test;
 	if(o1.(adres[0])==o2.adres[0]&&o1.(adres[1])==o2.(adres[1]))
 	{
