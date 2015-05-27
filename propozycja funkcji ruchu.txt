@@ -1,0 +1,27 @@
+
+
+ruch(obiekt a){
+int x=a.adres[0];
+int y=a.adres[1];
+
+
+do{
+//
+//tu losowo robi x++ lub --
+//
+}
+while(nowy x nie nalezy 0,100)
+
+//do{
+//
+//tu losowo robi y++ lub --
+//
+}
+while(nowy y nie nalezy 0,100)
+
+a.adres[0]=nowy x; //przypisuje bezpieczny x
+a.adres[1]=nowy y; //przypisuje bezpieczny y
+rand()%2;
+
+}
+
