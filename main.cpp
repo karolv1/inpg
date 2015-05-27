@@ -1,5 +1,6 @@
 #include <iostream>
 #include "klasa.h"
+#include "spraw.cpp"
 using namespace std;
 int main()
 {
