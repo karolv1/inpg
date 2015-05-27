@@ -1,4 +1,5 @@
 #include<iostream>
+#include"klasa.h"
 using namespace std;
 int sprawdz(obiekt o1,obiekt o2)
 {
